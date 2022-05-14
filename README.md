@@ -54,6 +54,12 @@ Suitable for all scripts that have written in Python scripting language.
 
 </details>
 
+<p align="center">
+<img src="https://github.com/violencedev/pythonify/blob/main/codequality.png"
+  alt="Code Quality"
+  width="686" height="289">
+</p>
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/violencedev/pythonify)
 ![GitHub](https://img.shields.io/github/license/violencedev/pythonify)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/violencedev/pythonify)
