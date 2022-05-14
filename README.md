@@ -1,4 +1,4 @@
-# 💻 Pythonify
+# 💻 Pythonify (not yet)
 
 
 Python is a code formatter for Python scripting language. It checks every line in the
