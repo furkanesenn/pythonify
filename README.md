@@ -15,7 +15,7 @@ For short, with <a href="https://github.com/violencedev/pythonify">Pythonify</a>
 <p align="center">
 <img src="https://github.com/violencedev/pythonify/blob/main/cli.svg"
   alt="CLI Support"
-  width="686" height="289">
+>
 </p>
 
 With `--pythonify`, Pythonify can tell you the list of all the commands in Pythonify, and with a lot of examples!
@@ -57,7 +57,7 @@ Suitable for all scripts that have written in Python scripting language.
 <p align="center">
 <img src="https://github.com/violencedev/pythonify/blob/main/codequality.png"
   alt="Code Quality"
-  width="686" height="289">
+>
 </p>
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/violencedev/pythonify)
