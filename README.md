@@ -53,3 +53,7 @@ Suitable for all scripts that have written in Python scripting language.
     ```
 
 </details>
+
+![GitHub last commit](https://img.shields.io/github/last-commit/violencedev/pythonify)
+![GitHub](https://img.shields.io/github/license/violencedev/pythonify)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/violencedev/pythonify)
