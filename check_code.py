@@ -1,10 +1,14 @@
-import os 
+import re 
 
 def check_code(file_path):
     try:
         with open(file_path, 'r+') as file:
-            file_content = file.read()
-            return file_content
+            lines = file.readlines()
+            for line in lines:
+                formatted_line = line.lstrip(' ').rstrip(' ')
+                compiled = re.compile(line)
+                presented = compiled.match('\B_')
+                print(presented)
     except FileNotFoundError:
         print(f'File is not found while trying to open the file. {file_path}')
-    return 0
+    return None
