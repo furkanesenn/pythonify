@@ -18,3 +18,4 @@ if __name__ == '__main__':
             sys.exit(1)
     else:
         print('The path you entered is not a Python file.')
+        
